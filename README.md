@@ -2,11 +2,11 @@
 This project is an all-inclusive Power BI dashboard that analyzes content on three major streaming platforms: Netflix, Amazon Prime, and Hotstar. The datasets used were sourced from Kaggle and contain information about all movies and TV shows available on these platforms. The main aim of this project is to derive meaningful insights and perform comparative analysis of content across the platforms using interactive visualizations.
 
 ## Key Features:
-Content Summary: Count the total number of movies and TV series on each platform.
-Genre Report: Report the top genres and percent share for all platforms.
-Year-wise Trends: Observe the pattern of content published year by year.
-Rating & Popularity: Analyze rating distribution on each platform and their corresponding popularity metric.
-Platform-specific Insights: Discover each platform's unique contents, trends, and patterns.
+- Content Summary: Count the total number of movies and TV series on each platform.
+- Genre Report: Report the top genres and percent share for all platforms.
+- Year-wise Trends: Observe the pattern of content published year by year.
+- Rating & Popularity: Analyze rating distribution on each platform and their corresponding popularity metric.
+- Platform-specific Insights: Discover each platform's unique contents, trends, and patterns.
 
 ## Dataset (Kaggle)
 The datasets used for this analysis are:
